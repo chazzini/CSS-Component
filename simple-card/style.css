@@ -35,3 +35,26 @@ img {
   margin-top: 1em;
   display: inline-block;
 }
+
+h1 a {
+  color: #fff;
+  font-size: 2.5rem;
+  line-height: 120%;
+}
+
+a.cta {
+  color: #fff;
+  display: flex;
+}
+
+a.cta p {
+  margin: 0;
+  color: #b1c4c9;
+}
+
+svg {
+  color: #b1c4c9;
+  width: 8%;
+  margin-left: 0.5em;
+  align-self: center;
+}
